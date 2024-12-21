@@ -1,0 +1,16 @@
+{
+    "name": "Bad Habbit",
+    "short_name": "Ampol",
+    "icons": [
+    {
+      "src": "yes.jpg",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#cfcfcf",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "index.html"
+  }
